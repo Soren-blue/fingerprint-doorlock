@@ -4,6 +4,14 @@
 
 > A cheap DIY fingerprint door lock: **ESP32 + HLK-ZW111 fingerprint module + SG90 servo**, about 40–60 CNY total. Full build guide (Chinese) in [`docs/`](docs/).
 
+## 演示
+
+实拍：手指按上去 → 舵机拉线开门（两段，各 3 秒）。
+
+<video src="https://github.com/user-attachments/assets/caee797b-1fb1-4250-af07-b3f32517989f" controls muted playsinline width="300"></video>
+
+<video src="https://github.com/user-attachments/assets/03c510bc-e93c-4c5b-bd6d-1b2597abf2f9" controls muted playsinline width="480"></video>
+
 ## 特点
 
 - 总成本 40~60 元，零件都是常见货
